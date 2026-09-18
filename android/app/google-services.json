@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418582732724",
+    "project_id": "myqrpushnotification",
+    "storage_bucket": "myqrpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418582732724:android:afa76c0f98bc425c559ce1",
+        "android_client_info": {
+          "package_name": "com.dev.myqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418582732724-n5mir7shm3b50f23ij20fkm3ef6tp9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUWXfPNz-l9rFI7YDMdYGcm-MJ5xe3Cco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418582732724-n5mir7shm3b50f23ij20fkm3ef6tp9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
