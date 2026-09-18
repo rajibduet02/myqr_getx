@@ -86,7 +86,7 @@ void showMerchantQrTag26AdditionalPaymentNetworkBottomSheet(
                             ],
                           ),
                         ),
-                        MerchantQrTag26SheetActions(
+                        MerchantQrTag26SheetActions(//check if the selected institution type is valid for the selected institution id
                           onSave: c.applyTag26AdditionalPaymentNetwork,
                           onCancel: c.clearTag26AdditionalPaymentNetwork,
                         ),
